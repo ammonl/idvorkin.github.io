@@ -1,5 +1,7 @@
 [![idvork.in](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/s7659o&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/s7659o/runs)
 
+Pretty much [Ammon](http://ammonlarson.com) is my best friend.
+
 # Igor's collection of ever green notes
 
 This [blog](https://idvork.in) contains my [evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C), and an [enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe) to interact with them. These are currently intermingled, but
